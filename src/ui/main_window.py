@@ -147,7 +147,7 @@ class MainWindow(QMainWindow):
         self.edit_btn.clicked.connect(self.edit_task)
         buttons_layout.addWidget(self.edit_btn)
 
-        self.delete_btn = QPushButton("Удалить")
+        self.delete_btn = QPushButton("Удалить задачу")
         self.delete_btn.clicked.connect(self.delete_task)
         buttons_layout.addWidget(self.delete_btn)
 
@@ -385,6 +385,7 @@ class MainWindow(QMainWindow):
 
             self.db.delete_task(task.id)
             self.load_tasks()
+            self.play_notification_sound()
             logger.info(f"Задача '{task.title}' удалена")
         except Exception as e:
             logger.error(f"Ошибка при удалении задачи: {e}")
@@ -401,10 +402,12 @@ class MainWindow(QMainWindow):
             task.status = Status.COMPLETED
             self.db.update_task(task)
             self.load_tasks()
+            self.play_notification_sound()
             logger.info(f"Задача '{task.title}' завершена")
         except Exception as e:
             logger.error(f"Ошибка при завершении задачи: {e}")
             QMessageBox.critical(self, "Ошибка", f"Не удалось завершить задачу: {e}")
+
 
     def on_task_double_clicked(self, item):
         """Обработка двойного клика по задаче"""
@@ -475,6 +478,7 @@ class MainWindow(QMainWindow):
                 if success:
                     self.load_categories()
                     self.load_tasks()
+                    self.play_notification_sound()
                     QMessageBox.information(self, "Успех", f"Категория '{display_name}' удалена")
                     logger.info(f"Категория '{display_name}' удалена")
         except Exception as e:
@@ -499,6 +503,7 @@ class MainWindow(QMainWindow):
                 )
                 self.db.add_category(new_category)
                 self.load_categories()
+                self.play_notification_sound()
                 logger.info(f"Добавлена категория: {name}")
         except Exception as e:
             logger.error(f"Ошибка при добавлении категории: {e}")

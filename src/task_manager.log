@@ -1,0 +1,426 @@
+2025-11-28 07:58:16,617 - database - INFO - Database initialized successfully
+2025-11-28 07:58:16,626 - __main__ - CRITICAL - Ошибка запуска приложения: 'MainWindow' object has no attribute 'search_tasks'
+2025-11-28 07:58:37,896 - database - INFO - Database initialized successfully
+2025-11-28 07:58:37,906 - __main__ - CRITICAL - Ошибка запуска приложения: 'MainWindow' object has no attribute 'search_tasks'
+2025-11-28 09:43:47,544 - database - INFO - Database initialized successfully
+2025-11-28 09:43:47,554 - __main__ - CRITICAL - Ошибка запуска приложения: 'MainWindow' object has no attribute 'search_tasks'
+2025-11-28 09:48:26,075 - database - INFO - Database initialized successfully
+2025-11-28 09:48:26,493 - ui.main_window - INFO - Настройки применены
+2025-11-28 09:48:26,591 - __main__ - INFO - Приложение успешно запущено
+2025-11-28 09:48:33,462 - ui.main_window - INFO - Настройки применены
+2025-11-28 09:48:34,461 - ui.settings_window - INFO - Настройки применены
+2025-11-28 09:48:34,465 - ui.main_window - INFO - Открыто окно настроек
+2025-11-28 09:48:43,955 - ui.main_window - INFO - Открыто окно настроек
+2025-11-28 09:49:07,840 - database - INFO - Database initialized successfully
+2025-11-28 09:49:08,242 - ui.main_window - INFO - Настройки применены
+2025-11-28 09:49:08,362 - __main__ - INFO - Приложение успешно запущено
+2025-11-28 09:49:10,267 - ui.main_window - ERROR - Ошибка при открытии настроек: 'SettingsWindow' object has no attribute 'test_sound'
+2025-11-28 09:49:18,872 - database - INFO - Database initialized successfully
+2025-11-28 09:49:19,270 - ui.main_window - INFO - Настройки применены
+2025-11-28 09:49:19,369 - __main__ - INFO - Приложение успешно запущено
+2025-11-28 09:49:22,728 - database - INFO - Task added with ID: 15
+2025-11-28 09:49:22,731 - ui.main_window - INFO - Воспроизведен звук уведомления
+2025-11-28 09:49:22,732 - ui.main_window - INFO - Новая задача добавлена
+2025-11-28 09:49:24,938 - database - INFO - Task 15 updated
+2025-11-28 09:49:24,942 - ui.main_window - INFO - Задача 'hjlk' завершена
+2025-11-28 09:53:23,001 - database - INFO - Database initialized successfully
+2025-11-28 09:53:23,405 - ui.main_window - INFO - Настройки применены
+2025-11-28 09:53:23,524 - __main__ - INFO - Приложение успешно запущено
+2025-11-28 09:53:28,633 - database - INFO - Task 15 deleted
+2025-11-28 09:53:28,638 - ui.main_window - INFO - Задача 'hjlk' удалена
+2025-11-28 09:53:38,502 - ui.main_window - INFO - Настройки применены
+2025-11-28 09:53:39,484 - ui.settings_window - INFO - Настройки применены
+2025-11-28 09:53:40,259 - ui.main_window - INFO - Открыто окно настроек
+2025-11-28 09:53:44,911 - database - INFO - Task added with ID: 16
+2025-11-28 09:53:44,915 - ui.main_window - INFO - Воспроизведен звук уведомления
+2025-11-28 09:53:44,915 - ui.main_window - INFO - Новая задача добавлена
+2025-11-28 09:53:52,922 - database - INFO - Task 16 updated
+2025-11-28 09:53:52,925 - ui.main_window - INFO - Задача '421' завершена
+2025-11-28 09:55:08,292 - ui.main_window - INFO - Открыто окно настроек
+2025-11-28 09:55:28,153 - database - INFO - Task 16 deleted
+2025-11-28 09:55:28,168 - ui.main_window - INFO - Задача '421' удалена
+2025-11-28 09:57:47,187 - database - INFO - Database initialized successfully
+2025-11-28 09:57:47,572 - ui.main_window - INFO - Настройки применены
+2025-11-28 09:57:47,669 - __main__ - INFO - Приложение успешно запущено
+2025-11-28 09:59:39,715 - database - INFO - Database initialized successfully
+2025-11-28 09:59:40,602 - ui.main_window - INFO - Настройки применены
+2025-11-28 09:59:40,693 - __main__ - INFO - Приложение успешно запущено
+2025-11-28 09:59:45,383 - database - INFO - Task added with ID: 17
+2025-11-28 09:59:48,001 - ui.main_window - INFO - Воспроизведен системный звук уведомления
+2025-11-28 09:59:48,062 - ui.main_window - INFO - Новая задача добавлена
+2025-11-28 09:59:51,450 - database - INFO - Task 17 updated
+2025-11-28 09:59:53,980 - ui.main_window - INFO - Воспроизведен системный звук завершения
+2025-11-28 09:59:54,008 - ui.main_window - INFO - Задача '42' завершена
+2025-11-28 10:00:04,790 - database - INFO - Task added with ID: 18
+2025-11-28 10:00:07,327 - ui.main_window - INFO - Воспроизведен системный звук уведомления
+2025-11-28 10:00:07,348 - ui.main_window - INFO - Новая задача добавлена
+2025-11-28 10:00:14,015 - database - INFO - Task added with ID: 19
+2025-11-28 10:00:16,554 - ui.main_window - INFO - Воспроизведен системный звук уведомления
+2025-11-28 10:00:16,575 - ui.main_window - INFO - Новая задача добавлена
+2025-11-28 10:00:28,889 - database - INFO - Database initialized successfully
+2025-11-28 10:00:29,545 - ui.main_window - INFO - Настройки применены
+2025-11-28 10:00:29,631 - __main__ - INFO - Приложение успешно запущено
+2025-11-28 10:00:33,839 - database - INFO - Task added with ID: 20
+2025-11-28 10:00:33,855 - ui.main_window - INFO - Воспроизведен звук уведомления
+2025-11-28 10:00:33,855 - ui.main_window - INFO - Новая задача добавлена
+2025-11-28 10:00:37,850 - database - INFO - Task 18 updated
+2025-11-28 10:00:37,856 - ui.main_window - INFO - Задача '21' завершена
+2025-11-28 10:00:39,457 - database - INFO - Task 19 updated
+2025-11-28 10:00:39,463 - ui.main_window - INFO - Задача '4214' завершена
+2025-11-28 10:00:40,825 - database - INFO - Task 20 updated
+2025-11-28 10:00:40,830 - ui.main_window - INFO - Задача '41421' завершена
+2025-11-28 10:00:44,598 - ui.main_window - INFO - Открыто окно настроек
+2025-11-28 10:01:49,983 - ui.main_window - INFO - Фокус на поле поиска (Ctrl+F)
+2025-11-28 10:01:50,754 - ui.main_window - INFO - Фокус на поле поиска (Ctrl+F)
+2025-11-28 10:01:52,549 - ui.main_window - INFO - Фокус на поле поиска (Ctrl+F)
+2025-11-28 10:01:55,602 - ui.main_window - INFO - Открыто окно настроек
+2025-11-28 10:01:57,259 - ui.main_window - INFO - Список задач обновлен (F5)
+2025-11-28 10:01:57,860 - ui.main_window - INFO - Список задач обновлен (F5)
+2025-11-28 10:01:58,090 - ui.main_window - INFO - Список задач обновлен (F5)
+2025-11-28 10:01:58,313 - ui.main_window - INFO - Список задач обновлен (F5)
+2025-11-28 10:01:58,526 - ui.main_window - INFO - Список задач обновлен (F5)
+2025-11-28 10:05:11,144 - database - INFO - Database initialized successfully
+2025-11-28 10:05:11,552 - ui.main_window - INFO - Настройки применены
+2025-11-28 10:05:11,664 - __main__ - INFO - Приложение успешно запущено
+2025-11-28 10:07:16,137 - database - INFO - Database initialized successfully
+2025-11-28 10:07:16,575 - ui.main_window - INFO - Настройки применены
+2025-11-28 10:07:16,690 - __main__ - INFO - Приложение успешно запущено
+2025-11-28 10:07:58,217 - database - INFO - Database initialized successfully
+2025-11-28 10:07:58,648 - ui.main_window - INFO - Настройки применены
+2025-11-28 10:07:58,770 - __main__ - INFO - Приложение успешно запущено
+2025-11-28 10:08:22,018 - database - INFO - Database initialized successfully
+2025-11-28 10:08:22,431 - ui.main_window - INFO - Настройки применены
+2025-11-28 10:08:22,548 - __main__ - INFO - Приложение успешно запущено
+2025-11-28 10:08:46,451 - database - INFO - Database initialized successfully
+2025-11-28 10:08:47,162 - ui.main_window - INFO - Настройки применены
+2025-11-28 10:08:47,265 - __main__ - INFO - Приложение успешно запущено
+2025-11-28 10:08:58,529 - database - INFO - Database initialized successfully
+2025-11-28 10:08:59,341 - ui.main_window - INFO - Настройки применены
+2025-11-28 10:08:59,435 - __main__ - INFO - Приложение успешно запущено
+2025-11-28 10:09:10,032 - ui.main_window - INFO - Настройки применены
+2025-11-28 10:09:11,355 - ui.settings_window - INFO - Настройки применены
+2025-11-28 10:09:16,576 - ui.main_window - INFO - Настройки применены
+2025-11-28 10:09:17,788 - ui.settings_window - INFO - Настройки применены
+2025-11-28 10:09:17,794 - ui.main_window - INFO - Открыто окно настроек
+2025-11-28 10:09:25,277 - ui.main_window - INFO - Настройки применены
+2025-11-28 10:09:26,250 - ui.settings_window - INFO - Настройки применены
+2025-11-28 10:09:27,349 - ui.main_window - INFO - Настройки применены
+2025-11-28 10:09:28,154 - ui.settings_window - INFO - Настройки применены
+2025-11-28 10:09:30,638 - ui.main_window - INFO - Настройки применены
+2025-11-28 10:09:31,531 - ui.settings_window - INFO - Настройки применены
+2025-11-28 10:09:40,186 - ui.main_window - INFO - Настройки применены
+2025-11-28 10:09:41,467 - ui.settings_window - INFO - Настройки применены
+2025-11-28 10:09:59,635 - ui.main_window - INFO - Настройки применены
+2025-11-28 10:10:00,788 - ui.settings_window - INFO - Настройки применены
+2025-11-28 10:10:01,675 - ui.main_window - INFO - Открыто окно настроек
+2025-11-28 10:11:43,692 - database - INFO - Database initialized successfully
+2025-11-28 10:11:44,155 - ui.main_window - INFO - Настройки применены
+2025-11-28 10:11:44,285 - __main__ - INFO - Приложение успешно запущено
+2025-11-28 10:11:45,735 - ui.main_window - INFO - Открыто контекстное меню
+2025-11-28 10:11:47,167 - ui.main_window - INFO - Открыто контекстное меню
+2025-11-28 10:11:50,280 - database - INFO - Task 20 deleted
+2025-11-28 10:11:50,284 - ui.main_window - INFO - Задача '41421' удалена
+2025-11-28 10:11:50,284 - ui.main_window - INFO - Открыто контекстное меню
+2025-11-28 10:11:52,286 - database - INFO - Task 18 deleted
+2025-11-28 10:11:52,290 - ui.main_window - INFO - Задача '21' удалена
+2025-11-28 10:11:52,290 - ui.main_window - INFO - Открыто контекстное меню
+2025-11-28 10:11:54,519 - database - INFO - Task 19 deleted
+2025-11-28 10:11:54,522 - ui.main_window - INFO - Задача '4214' удалена
+2025-11-28 10:11:54,522 - ui.main_window - INFO - Открыто контекстное меню
+2025-11-28 10:11:55,288 - ui.main_window - INFO - Открыто контекстное меню
+2025-11-28 10:11:56,984 - database - INFO - Task 17 deleted
+2025-11-28 10:11:56,995 - ui.main_window - INFO - Задача '42' удалена
+2025-11-28 10:11:56,995 - ui.main_window - INFO - Открыто контекстное меню
+2025-11-28 10:12:00,332 - ui.main_window - INFO - Открыто окно настроек
+2025-11-28 10:12:11,983 - database - INFO - Task added with ID: 21
+2025-11-28 10:12:11,986 - ui.main_window - INFO - Воспроизведен звук уведомления
+2025-11-28 10:12:11,986 - ui.main_window - INFO - Новая задача добавлена
+2025-11-28 10:12:21,862 - database - INFO - Task added with ID: 22
+2025-11-28 10:12:21,867 - ui.main_window - INFO - Воспроизведен звук уведомления
+2025-11-28 10:12:21,867 - ui.main_window - INFO - Новая задача добавлена
+2025-11-28 10:12:27,437 - database - INFO - Task added with ID: 23
+2025-11-28 10:12:27,440 - ui.main_window - INFO - Воспроизведен звук уведомления
+2025-11-28 10:12:27,440 - ui.main_window - INFO - Новая задача добавлена
+2025-11-28 10:18:30,808 - database - INFO - Database initialized successfully
+2025-11-28 10:18:31,254 - ui.main_window - INFO - Настройки применены
+2025-11-28 10:18:31,380 - __main__ - INFO - Приложение успешно запущено
+2025-11-28 10:18:34,520 - database - INFO - Task 21 deleted
+2025-11-28 10:18:34,523 - ui.main_window - INFO - Задача '412' удалена
+2025-11-28 10:18:37,967 - database - INFO - Task added with ID: 24
+2025-11-28 10:18:37,970 - ui.main_window - INFO - Воспроизведен звук уведомления
+2025-11-28 10:18:37,971 - ui.main_window - INFO - Новая задача добавлена
+2025-11-28 10:18:44,867 - database - INFO - Task 22 updated
+2025-11-28 10:18:44,872 - ui.main_window - INFO - Задача 'ewaeaw' завершена
+2025-11-28 10:18:46,578 - database - INFO - Task 23 updated
+2025-11-28 10:18:46,583 - ui.main_window - INFO - Задача '41214' завершена
+2025-11-28 10:18:49,011 - database - INFO - Task 24 updated
+2025-11-28 10:18:49,016 - ui.main_window - INFO - Задача '534' завершена
+2025-11-28 10:19:08,733 - database - INFO - Task added with ID: 25
+2025-11-28 10:19:08,750 - ui.main_window - INFO - Воспроизведен звук уведомления
+2025-11-28 10:19:08,750 - ui.main_window - INFO - Новая задача добавлена
+2025-11-28 10:19:14,651 - database - INFO - Database initialized successfully
+2025-11-28 10:19:15,074 - ui.main_window - INFO - Настройки применены
+2025-11-28 10:19:15,187 - __main__ - INFO - Приложение успешно запущено
+2025-11-28 10:19:18,502 - database - INFO - Task 22 updated
+2025-11-28 10:19:18,506 - ui.main_window - INFO - Воспроизведен звук уведомления
+2025-11-28 10:19:18,507 - ui.main_window - INFO - Задача 'ewaeaw' завершена
+2025-11-28 10:19:20,098 - database - INFO - Task 25 updated
+2025-11-28 10:19:20,115 - ui.main_window - INFO - Воспроизведен звук уведомления
+2025-11-28 10:19:20,115 - ui.main_window - INFO - Задача '34241' завершена
+2025-11-28 10:23:29,160 - database - INFO - Database initialized successfully
+2025-11-28 10:23:29,572 - ui.main_window - INFO - Настройки применены
+2025-11-28 10:23:29,680 - __main__ - INFO - Приложение успешно запущено
+2025-11-28 10:23:35,147 - database - INFO - Task 24 deleted
+2025-11-28 10:23:35,150 - ui.main_window - INFO - Воспроизведен звук уведомления
+2025-11-28 10:23:35,151 - ui.main_window - INFO - Задача '534' удалена
+2025-11-28 10:23:37,304 - database - INFO - Task 23 deleted
+2025-11-28 10:23:37,326 - ui.main_window - INFO - Воспроизведен звук уведомления
+2025-11-28 10:23:37,327 - ui.main_window - INFO - Задача '41214' удалена
+2025-11-28 10:23:44,823 - database - INFO - Task 22 deleted
+2025-11-28 10:23:44,827 - ui.main_window - INFO - Воспроизведен звук уведомления
+2025-11-28 10:23:44,828 - ui.main_window - INFO - Задача 'ewaeaw' удалена
+2025-11-28 10:23:48,560 - database - INFO - Task 25 deleted
+2025-11-28 10:23:48,572 - ui.main_window - INFO - Воспроизведен звук уведомления
+2025-11-28 10:23:48,573 - ui.main_window - INFO - Задача '34241' удалена
+2025-11-28 10:23:52,361 - database - INFO - Category added with ID: 238
+2025-11-28 10:23:52,363 - ui.main_window - INFO - Добавлена категория: 3
+2025-11-28 10:23:58,568 - database - INFO - Category 238 deleted
+2025-11-28 10:23:58,573 - ui.main_window - INFO - Воспроизведен звук уведомления
+2025-11-28 10:23:59,420 - ui.main_window - INFO - Категория '3' удалена
+2025-11-28 10:24:21,578 - database - INFO - Database initialized successfully
+2025-11-28 10:24:22,560 - ui.main_window - INFO - Настройки применены
+2025-11-28 10:24:22,653 - __main__ - INFO - Приложение успешно запущено
+2025-11-28 10:24:25,779 - database - INFO - Category added with ID: 243
+2025-11-28 10:24:25,781 - ui.main_window - INFO - Воспроизведен звук уведомления
+2025-11-28 10:24:25,782 - ui.main_window - INFO - Добавлена категория: 4
+2025-11-28 10:24:33,583 - database - INFO - Category 243 deleted
+2025-11-28 10:24:33,588 - ui.main_window - INFO - Воспроизведен звук уведомления
+2025-11-28 10:24:34,659 - ui.main_window - INFO - Категория '4' удалена
+2025-11-28 10:24:57,984 - database - INFO - Database initialized successfully
+2025-11-28 10:24:58,444 - ui.main_window - INFO - Настройки применены
+2025-11-28 10:24:58,527 - __main__ - INFO - Приложение успешно запущено
+2025-11-28 10:25:23,069 - database - INFO - Database initialized successfully
+2025-11-28 10:25:23,477 - ui.main_window - INFO - Настройки применены
+2025-11-28 10:25:23,561 - __main__ - INFO - Приложение успешно запущено
+2025-11-28 10:25:27,897 - ui.main_window - INFO - Открыто контекстное меню
+2025-11-28 10:26:02,587 - ui.main_window - INFO - Открыто окно настроек
+2025-11-28 10:27:05,873 - database - INFO - Database initialized successfully
+2025-11-28 10:27:06,301 - ui.main_window - INFO - Настройки применены
+2025-11-28 10:27:06,412 - __main__ - INFO - Приложение успешно запущено
+2025-11-28 10:28:06,520 - database - INFO - Task added with ID: 26
+2025-11-28 10:28:06,524 - ui.main_window - INFO - Воспроизведен звук уведомления
+2025-11-28 10:28:06,525 - ui.main_window - INFO - Новая задача добавлена
+2025-11-28 10:28:20,951 - database - INFO - Task added with ID: 27
+2025-11-28 10:28:20,955 - ui.main_window - INFO - Воспроизведен звук уведомления
+2025-11-28 10:28:20,955 - ui.main_window - INFO - Новая задача добавлена
+2025-11-28 10:28:32,703 - database - INFO - Task added with ID: 28
+2025-11-28 10:28:32,707 - ui.main_window - INFO - Воспроизведен звук уведомления
+2025-11-28 10:28:32,708 - ui.main_window - INFO - Новая задача добавлена
+2025-11-28 10:28:39,369 - database - INFO - Task 26 deleted
+2025-11-28 10:28:39,373 - ui.main_window - INFO - Воспроизведен звук уведомления
+2025-11-28 10:28:39,374 - ui.main_window - INFO - Задача 'рбобрборб' удалена
+2025-11-28 10:28:41,704 - database - INFO - Task 27 deleted
+2025-11-28 10:28:41,722 - ui.main_window - INFO - Воспроизведен звук уведомления
+2025-11-28 10:28:41,723 - ui.main_window - INFO - Задача 'лробрбоь' удалена
+2025-11-28 10:28:47,562 - database - INFO - Task 28 deleted
+2025-11-28 10:28:47,566 - ui.main_window - INFO - Воспроизведен звук уведомления
+2025-11-28 10:28:47,566 - ui.main_window - INFO - Задача ',юллоод' удалена
+2025-11-28 10:29:00,855 - ui.main_window - INFO - Список задач обновлен (F5)
+2025-11-28 10:29:03,442 - ui.main_window - INFO - Открыто контекстное меню
+2025-11-28 10:29:11,725 - ui.main_window - INFO - Открыто окно настроек
+2025-11-28 10:29:31,910 - ui.settings_window - INFO - Тестовый звук воспроизведен
+2025-11-28 10:29:35,890 - ui.settings_window - INFO - Тестовый звук воспроизведен
+2025-11-28 10:29:36,366 - ui.settings_window - INFO - Тестовый звук воспроизведен
+2025-11-28 10:29:39,279 - ui.settings_window - INFO - Тестовый звук воспроизведен
+2025-11-28 10:29:39,564 - ui.settings_window - INFO - Тестовый звук воспроизведен
+2025-11-28 10:29:39,757 - ui.settings_window - INFO - Тестовый звук воспроизведен
+2025-11-28 10:29:41,858 - ui.settings_window - INFO - Тестовый звук воспроизведен
+2025-11-28 10:29:42,486 - ui.settings_window - INFO - Тестовый звук воспроизведен
+2025-11-28 10:29:43,553 - ui.settings_window - INFO - Тестовый звук воспроизведен
+2025-11-28 10:29:43,686 - ui.settings_window - INFO - Тестовый звук воспроизведен
+2025-11-28 10:29:43,819 - ui.settings_window - INFO - Тестовый звук воспроизведен
+2025-11-28 10:29:43,954 - ui.settings_window - INFO - Тестовый звук воспроизведен
+2025-11-28 10:29:44,089 - ui.settings_window - INFO - Тестовый звук воспроизведен
+2025-11-28 10:29:44,236 - ui.settings_window - INFO - Тестовый звук воспроизведен
+2025-11-28 10:29:44,377 - ui.settings_window - INFO - Тестовый звук воспроизведен
+2025-11-28 10:29:44,520 - ui.settings_window - INFO - Тестовый звук воспроизведен
+2025-11-28 10:29:44,667 - ui.settings_window - INFO - Тестовый звук воспроизведен
+2025-11-28 10:29:44,811 - ui.settings_window - INFO - Тестовый звук воспроизведен
+2025-11-28 10:29:44,957 - ui.settings_window - INFO - Тестовый звук воспроизведен
+2025-11-28 10:29:45,109 - ui.settings_window - INFO - Тестовый звук воспроизведен
+2025-11-28 10:29:45,249 - ui.settings_window - INFO - Тестовый звук воспроизведен
+2025-11-28 10:29:45,391 - ui.settings_window - INFO - Тестовый звук воспроизведен
+2025-11-28 10:29:45,531 - ui.settings_window - INFO - Тестовый звук воспроизведен
+2025-11-28 10:29:45,673 - ui.settings_window - INFO - Тестовый звук воспроизведен
+2025-11-28 10:29:45,813 - ui.settings_window - INFO - Тестовый звук воспроизведен
+2025-11-28 10:29:45,941 - ui.settings_window - INFO - Тестовый звук воспроизведен
+2025-11-28 10:29:46,076 - ui.settings_window - INFO - Тестовый звук воспроизведен
+2025-11-28 10:29:46,209 - ui.settings_window - INFO - Тестовый звук воспроизведен
+2025-11-28 10:29:46,383 - ui.settings_window - INFO - Тестовый звук воспроизведен
+2025-11-28 10:29:46,523 - ui.settings_window - INFO - Тестовый звук воспроизведен
+2025-11-28 10:29:46,662 - ui.settings_window - INFO - Тестовый звук воспроизведен
+2025-11-28 10:29:53,329 - ui.main_window - INFO - Настройки применены
+2025-11-28 10:29:54,444 - ui.settings_window - INFO - Настройки применены
+2025-11-28 10:29:57,644 - ui.main_window - INFO - Открыто окно настроек
+2025-11-28 10:30:02,180 - ui.settings_window - INFO - Тестовый звук воспроизведен
+2025-11-28 10:30:06,156 - ui.main_window - INFO - Настройки применены
+2025-11-28 10:30:07,124 - ui.settings_window - INFO - Настройки применены
+2025-11-28 10:30:07,129 - ui.main_window - INFO - Открыто окно настроек
+2025-11-28 10:30:08,523 - ui.settings_window - INFO - Тестовый звук воспроизведен
+2025-11-28 10:30:15,958 - ui.main_window - INFO - Настройки применены
+2025-11-28 10:30:16,821 - ui.settings_window - INFO - Настройки применены
+2025-11-28 10:30:28,564 - ui.main_window - INFO - Настройки применены
+2025-11-28 10:30:29,916 - ui.settings_window - INFO - Настройки применены
+2025-11-28 10:30:37,427 - ui.main_window - INFO - Настройки применены
+2025-11-28 10:30:38,524 - ui.settings_window - INFO - Настройки применены
+2025-11-28 10:30:39,651 - ui.main_window - INFO - Открыто окно настроек
+2025-11-28 10:30:42,290 - ui.settings_window - INFO - Тестовый звук воспроизведен
+2025-11-28 10:30:51,659 - ui.main_window - INFO - Настройки применены
+2025-11-28 10:30:52,900 - ui.settings_window - INFO - Настройки применены
+2025-11-28 10:30:57,094 - ui.main_window - INFO - Настройки применены
+2025-11-28 10:30:58,052 - ui.settings_window - INFO - Настройки применены
+2025-11-28 10:31:04,230 - ui.main_window - INFO - Настройки применены
+2025-11-28 10:31:05,291 - ui.settings_window - INFO - Настройки применены
+2025-11-28 10:31:18,492 - ui.main_window - INFO - Настройки применены
+2025-11-28 10:31:20,100 - ui.settings_window - INFO - Настройки применены
+2025-11-28 10:31:24,094 - ui.main_window - INFO - Настройки применены
+2025-11-28 10:31:25,125 - ui.settings_window - INFO - Настройки применены
+2025-11-28 10:31:29,846 - ui.main_window - INFO - Настройки применены
+2025-11-28 10:31:30,909 - ui.settings_window - INFO - Настройки применены
+2025-11-28 10:31:35,190 - ui.main_window - INFO - Настройки применены
+2025-11-28 10:31:36,170 - ui.settings_window - INFO - Настройки применены
+2025-11-28 10:31:36,177 - ui.main_window - INFO - Открыто окно настроек
+2025-11-28 10:31:38,131 - ui.settings_window - INFO - Тестовый звук воспроизведен
+2025-11-28 10:31:39,886 - ui.settings_window - INFO - Тестовый звук воспроизведен
+2025-11-28 10:31:40,587 - ui.settings_window - INFO - Настройки сброшены
+2025-11-28 10:31:41,924 - ui.main_window - INFO - Открыто окно настроек
+2025-11-28 10:31:49,068 - ui.main_window - INFO - Настройки применены
+2025-11-28 10:31:50,403 - ui.settings_window - INFO - Настройки применены
+2025-11-28 10:31:55,845 - ui.main_window - INFO - Открыто окно настроек
+2025-11-28 10:32:26,130 - database - INFO - Database initialized successfully
+2025-11-28 10:32:26,502 - ui.main_window - INFO - Настройки применены
+2025-11-28 10:32:26,585 - __main__ - INFO - Приложение успешно запущено
+2025-11-28 10:33:02,081 - database - INFO - Database initialized successfully
+2025-11-28 10:33:02,455 - ui.main_window - INFO - Настройки применены
+2025-11-28 10:33:02,540 - __main__ - INFO - Приложение успешно запущено
+2025-11-28 10:33:13,114 - database - INFO - Category 1 deleted
+2025-11-28 10:33:13,118 - ui.main_window - INFO - Воспроизведен звук уведомления
+2025-11-28 10:33:14,348 - ui.main_window - INFO - Категория 'Работа' удалена
+2025-11-28 10:33:16,417 - database - INFO - Category 2 deleted
+2025-11-28 10:33:16,421 - ui.main_window - INFO - Воспроизведен звук уведомления
+2025-11-28 10:33:16,916 - ui.main_window - INFO - Категория 'Личное' удалена
+2025-11-28 10:33:27,792 - database - INFO - Task added with ID: 1
+2025-11-28 10:33:27,796 - ui.main_window - INFO - Воспроизведен звук уведомления
+2025-11-28 10:33:27,797 - ui.main_window - INFO - Новая задача добавлена
+2025-11-28 10:33:29,857 - database - INFO - Task 1 deleted
+2025-11-28 10:33:29,877 - ui.main_window - INFO - Воспроизведен звук уведомления
+2025-11-28 10:33:29,878 - ui.main_window - INFO - Задача '08009' удалена
+2025-11-28 10:33:35,168 - database - INFO - Category 3 deleted
+2025-11-28 10:33:35,173 - ui.main_window - INFO - Воспроизведен звук уведомления
+2025-11-28 10:33:36,332 - ui.main_window - INFO - Категория 'Учеба' удалена
+2025-11-28 10:33:38,274 - database - INFO - Category 4 deleted
+2025-11-28 10:33:38,278 - ui.main_window - INFO - Воспроизведен звук уведомления
+2025-11-28 10:33:39,277 - ui.main_window - INFO - Категория 'Покупки' удалена
+2025-11-28 10:33:47,211 - database - INFO - Database initialized successfully
+2025-11-28 10:33:47,625 - ui.main_window - INFO - Настройки применены
+2025-11-28 10:33:47,736 - __main__ - INFO - Приложение успешно запущено
+2025-11-28 10:34:02,949 - database - INFO - Category added with ID: 5
+2025-11-28 10:34:02,952 - ui.main_window - INFO - Воспроизведен звук уведомления
+2025-11-28 10:34:02,953 - ui.main_window - INFO - Добавлена категория: Дедлайн
+2025-11-28 10:34:48,263 - database - INFO - Task added with ID: 1
+2025-11-28 10:34:48,267 - ui.main_window - INFO - Воспроизведен звук уведомления
+2025-11-28 10:34:48,268 - ui.main_window - INFO - Новая задача добавлена
+2025-11-28 10:34:58,019 - ui.main_window - INFO - Двойной клик по задаче: QtProject
+2025-11-28 10:35:07,142 - database - INFO - Task added with ID: 2
+2025-11-28 10:35:07,145 - ui.main_window - INFO - Воспроизведен звук уведомления
+2025-11-28 10:35:07,146 - ui.main_window - INFO - Новая задача добавлена
+2025-11-28 10:35:12,478 - database - INFO - Task added with ID: 3
+2025-11-28 10:35:12,482 - ui.main_window - INFO - Воспроизведен звук уведомления
+2025-11-28 10:35:12,482 - ui.main_window - INFO - Новая задача добавлена
+2025-11-28 10:35:19,460 - ui.main_window - INFO - Двойной клик по задаче: 4214
+2025-11-28 10:35:20,760 - ui.main_window - INFO - Открыто контекстное меню
+2025-11-28 10:35:21,888 - ui.main_window - INFO - Открыто контекстное меню
+2025-11-28 10:35:26,433 - database - INFO - Task 3 updated
+2025-11-28 10:35:26,438 - ui.main_window - INFO - Воспроизведен звук уведомления
+2025-11-28 10:35:26,438 - ui.main_window - INFO - Задача '4214' завершена
+2025-11-28 10:35:29,491 - database - INFO - Task 2 updated
+2025-11-28 10:35:29,498 - ui.main_window - INFO - Воспроизведен звук уведомления
+2025-11-28 10:35:29,499 - ui.main_window - INFO - Задача '4214' завершена
+2025-11-28 10:35:30,794 - database - INFO - Task 1 updated
+2025-11-28 10:35:30,811 - ui.main_window - INFO - Воспроизведен звук уведомления
+2025-11-28 10:35:30,811 - ui.main_window - INFO - Задача 'QtProject' завершена
+2025-11-28 10:35:36,025 - database - INFO - Task 3 deleted
+2025-11-28 10:35:36,028 - ui.main_window - INFO - Воспроизведен звук уведомления
+2025-11-28 10:35:36,029 - ui.main_window - INFO - Задача '4214' удалена
+2025-11-28 10:35:37,471 - database - INFO - Task 1 deleted
+2025-11-28 10:35:37,486 - ui.main_window - INFO - Воспроизведен звук уведомления
+2025-11-28 10:35:37,487 - ui.main_window - INFO - Задача 'QtProject' удалена
+2025-11-28 10:35:39,049 - database - INFO - Task 2 deleted
+2025-11-28 10:35:39,075 - ui.main_window - INFO - Воспроизведен звук уведомления
+2025-11-28 10:35:39,076 - ui.main_window - INFO - Задача '4214' удалена
+2025-11-28 10:36:07,979 - ui.settings_window - INFO - Тестовый звук воспроизведен
+2025-11-28 10:36:08,140 - ui.settings_window - INFO - Тестовый звук воспроизведен
+2025-11-28 10:36:08,279 - ui.settings_window - INFO - Тестовый звук воспроизведен
+2025-11-28 10:36:08,417 - ui.settings_window - INFO - Тестовый звук воспроизведен
+2025-11-28 10:36:08,565 - ui.settings_window - INFO - Тестовый звук воспроизведен
+2025-11-28 10:36:08,709 - ui.settings_window - INFO - Тестовый звук воспроизведен
+2025-11-28 10:36:08,842 - ui.settings_window - INFO - Тестовый звук воспроизведен
+2025-11-28 10:36:09,011 - ui.settings_window - INFO - Тестовый звук воспроизведен
+2025-11-28 10:36:09,152 - ui.settings_window - INFO - Тестовый звук воспроизведен
+2025-11-28 10:36:09,291 - ui.settings_window - INFO - Тестовый звук воспроизведен
+2025-11-28 10:36:09,435 - ui.settings_window - INFO - Тестовый звук воспроизведен
+2025-11-28 10:36:09,576 - ui.settings_window - INFO - Тестовый звук воспроизведен
+2025-11-28 10:36:09,716 - ui.settings_window - INFO - Тестовый звук воспроизведен
+2025-11-28 10:36:09,855 - ui.settings_window - INFO - Тестовый звук воспроизведен
+2025-11-28 10:36:09,994 - ui.settings_window - INFO - Тестовый звук воспроизведен
+2025-11-28 10:36:10,127 - ui.settings_window - INFO - Тестовый звук воспроизведен
+2025-11-28 10:36:10,271 - ui.settings_window - INFO - Тестовый звук воспроизведен
+2025-11-28 10:36:10,405 - ui.settings_window - INFO - Тестовый звук воспроизведен
+2025-11-28 10:36:10,551 - ui.settings_window - INFO - Тестовый звук воспроизведен
+2025-11-28 10:36:10,680 - ui.settings_window - INFO - Тестовый звук воспроизведен
+2025-11-28 10:36:10,811 - ui.settings_window - INFO - Тестовый звук воспроизведен
+2025-11-28 10:36:11,036 - ui.settings_window - INFO - Тестовый звук воспроизведен
+2025-11-28 10:36:11,174 - ui.settings_window - INFO - Тестовый звук воспроизведен
+2025-11-28 10:36:11,310 - ui.settings_window - INFO - Тестовый звук воспроизведен
+2025-11-28 10:36:12,040 - ui.settings_window - INFO - Тестовый звук воспроизведен
+2025-11-28 10:36:12,419 - ui.settings_window - INFO - Тестовый звук воспроизведен
+2025-11-28 10:36:13,051 - ui.settings_window - INFO - Тестовый звук воспроизведен
+2025-11-28 10:36:13,799 - ui.settings_window - INFO - Тестовый звук воспроизведен
+2025-11-28 10:36:37,196 - ui.main_window - INFO - Настройки применены
+2025-11-28 10:36:38,229 - ui.settings_window - INFO - Настройки применены
+2025-11-28 10:36:42,672 - ui.main_window - INFO - Настройки применены
+2025-11-28 10:36:43,476 - ui.settings_window - INFO - Настройки применены
+2025-11-28 10:37:00,509 - ui.main_window - INFO - Настройки применены
+2025-11-28 10:37:01,482 - ui.settings_window - INFO - Настройки применены
+2025-11-28 10:37:11,403 - ui.main_window - INFO - Открыто окно настроек
+2025-11-28 10:37:16,370 - ui.main_window - INFO - Открыто окно настроек
+2025-11-28 17:56:50,796 - database - INFO - Database initialized successfully
+2025-11-28 17:56:51,333 - ui.main_window - INFO - Настройки применены
+2025-11-28 17:56:51,466 - __main__ - INFO - Приложение успешно запущено
+2025-11-28 17:58:46,079 - database - INFO - Database initialized successfully
+2025-11-28 17:58:46,528 - ui.main_window - INFO - Настройки применены
+2025-11-28 17:58:46,652 - __main__ - INFO - Приложение успешно запущено
+2025-11-28 18:00:55,670 - database - INFO - Task added with ID: 4
+2025-11-28 18:00:55,674 - ui.main_window - INFO - Воспроизведен звук уведомления
+2025-11-28 18:00:55,675 - ui.main_window - INFO - Новая задача добавлена
+2025-11-28 18:04:13,176 - ui.main_window - INFO - Настройки применены
+2025-11-28 18:04:14,390 - ui.settings_window - INFO - Настройки применены
+2025-11-28 18:04:14,397 - ui.main_window - INFO - Открыто окно настроек
+2025-11-28 18:04:19,388 - ui.main_window - INFO - Настройки применены
+2025-11-28 18:04:20,574 - ui.settings_window - INFO - Настройки применены
+2025-11-28 18:04:20,580 - ui.main_window - INFO - Открыто окно настроек
+2025-11-28 18:05:37,558 - database - INFO - Task added with ID: 5
+2025-11-28 18:05:37,563 - ui.main_window - INFO - Воспроизведен звук уведомления
+2025-11-28 18:05:37,563 - ui.main_window - INFO - Новая задача добавлена
+2025-11-28 18:05:44,472 - ui.main_window - INFO - Настройки применены
+2025-11-28 18:05:46,421 - ui.settings_window - INFO - Настройки применены
+2025-11-28 18:05:46,427 - ui.main_window - INFO - Открыто окно настроек
+2025-11-28 18:05:57,258 - database - INFO - Task added with ID: 6
+2025-11-28 18:05:57,262 - ui.main_window - INFO - Воспроизведен звук уведомления
+2025-11-28 18:05:57,262 - ui.main_window - INFO - Новая задача добавлена
+2025-11-28 18:06:02,956 - database - INFO - Task 6 updated
+2025-11-28 18:06:02,961 - ui.main_window - INFO - Воспроизведен звук уведомления
+2025-11-28 18:06:02,962 - ui.main_window - INFO - Задача '241' завершена
+2025-11-28 18:06:06,107 - database - INFO - Task 5 updated
+2025-11-28 18:06:06,113 - ui.main_window - INFO - Воспроизведен звук уведомления
+2025-11-28 18:06:06,114 - ui.main_window - INFO - Задача '421' завершена
