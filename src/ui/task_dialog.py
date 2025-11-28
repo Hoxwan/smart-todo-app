@@ -7,16 +7,15 @@ from PyQt5.QtWidgets import (QDialog, QVBoxLayout, QHBoxLayout, QLabel,
                              QLineEdit, QTextEdit, QComboBox, QDateEdit,
                              QPushButton, QDialogButtonBox)
 from PyQt5.QtCore import QDate, Qt
-from PyQt5.QtGui import QKeySequence
+from PyQt5.QtGui import QKeySequence, QFont
 from PyQt5.QtWidgets import QShortcut
 
-# Добавляем путь к модулям
+# Правильные пути
 current_dir = Path(__file__).parent
 src_dir = current_dir.parent
 sys.path.insert(0, str(src_dir))
 
 from models import Task, Priority, Status
-
 
 class TaskDialog(QDialog):
     def __init__(self, parent=None, task: Task = None, categories=None):
@@ -85,48 +84,10 @@ class TaskDialog(QDialog):
         button_box.rejected.connect(self.reject)
         layout.addWidget(button_box)
 
-        # Применение стилей
-        self.apply_styles()
-
     def setup_shortcuts(self):
         """Настройка горячих клавиш"""
         QShortcut(QKeySequence("Ctrl+S"), self).activated.connect(self.validate_and_accept)
         QShortcut(QKeySequence("Escape"), self).activated.connect(self.reject)
-
-    def apply_styles(self):
-        """Применение CSS стилей"""
-        style = """
-        QDialog {
-            background-color: #f8f9fa;
-        }
-        QLabel {
-            color: #2c3e50;
-            font-weight: bold;
-            margin-top: 10px;
-        }
-        QLineEdit, QTextEdit, QComboBox, QDateEdit {
-            padding: 8px;
-            border: 1px solid #bdc3c7;
-            border-radius: 4px;
-            background-color: white;
-            margin-bottom: 5px;
-        }
-        QLineEdit:focus, QTextEdit:focus, QComboBox:focus, QDateEdit:focus {
-            border-color: #3498db;
-        }
-        QPushButton {
-            background-color: #3498db;
-            color: white;
-            border: none;
-            padding: 8px 16px;
-            border-radius: 4px;
-            font-weight: bold;
-        }
-        QPushButton:hover {
-            background-color: #2980b9;
-        }
-        """
-        self.setStyleSheet(style)
 
     def load_categories(self):
         """Загрузка категорий в комбобокс"""

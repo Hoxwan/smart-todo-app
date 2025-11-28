@@ -11,7 +11,7 @@
    </rect>
   </property>
   <property name="windowTitle">
-   <string>Умный список задач</string>
+   <string>Task Manager</string>
   </property>
   <widget class="QWidget" name="centralwidget">
    <layout class="QVBoxLayout" name="verticalLayout">
@@ -20,7 +20,7 @@
       <item>
        <widget class="QLabel" name="titleLabel">
         <property name="text">
-         <string>Умный список задач</string>
+         <string>Task Manager</string>
         </property>
         <property name="styleSheet">
          <string notr="true">font-size: 24px; font-weight: bold; color: #2c3e50;</string>

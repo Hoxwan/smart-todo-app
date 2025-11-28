@@ -49,30 +49,33 @@ python setup.py build
 
 #  Структура проекта
 smart-todo-app/
-├── src/                    # Исходный код
-│   ├── main.py            # Точка входа
-│   ├── database.py        # Работа с базой данных
-│   ├── models.py          # Модели данных
-│   └── ui/                # Пользовательский интерфейс
-│       ├── main_window.py # Главное окно
-│       ├── task_dialog.py # Диалог задачи
-│       ├── settings_window.py # Настройки
-│       └── forms/         # UI формы Qt Designer
-├── resources/             # Ресурсы приложения
-│   ├── images/           # Изображения
-│   └── sounds/           # Звуковые файлы
-├── requirements.txt       # Зависимости проекта
-├── setup.py             # Скрипт сборки
-└── README.md            # Документация
+├── 📁 src/                    
+│   ├── 📁 ui/                
+│   │   ├── main_window.py    
+│   │   ├── task_dialog.py    
+│   │   ├── settings_window.py 
+│   │   └── __init__.py
+│   ├── 📁 forms/             
+│   │   ├── main_window.ui
+│   │   └── task_dialog.ui
+│   ├── main.py              
+│   ├── database.py          
+│   ├── models.py            
+│   └── __init__.py
+├── 📁 resources/             
+│   ├── 📁 images/
+│   │   └── splash.png       
+├── requirements.txt        
+├── tasks.db                
+└── README.md               
 
 # Горячие клавиши
 
+
 Сочетание	Действие
-Ctrl+N	Добавить новую задачу
-Ctrl+E	Редактировать задачу
-Delete	Удалить задачу
-Ctrl+F	Фокус на поле поиска
-Ctrl+S	Открыть настройки
+Ctrl + N	Добавить новую задачу
+Ctrl + E	Редактировать выбранную задачу
+Delete	Удалить выбранную задачу
+Ctrl + F	Фокус на поле поиска
+Ctrl + S	Открыть настройки
 F5	Обновить список задач
-Ctrl+A	Добавить задачу (альтернативное)
-Ctrl+D	Удалить задачу (альтернативное)

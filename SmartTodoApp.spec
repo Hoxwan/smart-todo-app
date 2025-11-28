@@ -3,10 +3,10 @@
 
 a = Analysis(
     ['C:\\Users\\Hoxwan\\PycharmProjects\\smart-todo-app\\src\\main.py'],
-    pathex=[],
+    pathex=['src'],
     binaries=[],
-    datas=[('C:\\Users\\Hoxwan\\PycharmProjects\\smart-todo-app\\resources', 'resources'), ('C:\\Users\\Hoxwan\\PycharmProjects\\smart-todo-app\\forms', 'forms'), ('tasks.db', '.'), ('requirements.txt', '.')],
-    hiddenimports=['ui.main_window', 'ui.settings_window', 'ui.task_dialog', 'database', 'models', 'PySide6.QtCore', 'PySide6.QtGui', 'PySide6.QtWidgets', 'PySide6.QtSql', 'PySide6.QtMultimedia'],
+    datas=[('resources', 'resources'), ('src/forms', 'forms'), ('tasks.db', '.')],
+    hiddenimports=[],
     hookspath=[],
     hooksconfig={},
     runtime_hooks=[],
